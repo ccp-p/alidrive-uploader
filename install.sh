@@ -3,7 +3,7 @@
 hash tar uname grep curl head
 
 OS="$(uname)"
-PROXY="https://ghproxy.com/"
+PROXY="https://mirror.ghproxy.com/"
 
 case $OS in
   Linux)
